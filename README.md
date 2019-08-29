@@ -2,9 +2,11 @@
 ## Selectivas y Repetitivas
 
 Nombre:
+Javier Chávez
 --
 
 Github Username:
+JavierChavez-UTEC
 --
 
 Instrucciones:
